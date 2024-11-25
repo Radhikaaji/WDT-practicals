@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <center>
+ <title>Best Laptops</title>
+ 
+ </head>
+ <body>
+ <h1>Best laptop</h1>
+ <table border="5" cell padding="8">
+ <thead>
+ 
+ 
+ <tr>
+ <th>Model</th>
+ <th>Processor</th>
+ <th>RAM</th>
+ <th>Storage</th>
+ <th>Image</th>
+ <th>Price</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>Asus Creta</td>
+ <td>Intel i5</td>
+ <td>16 GB</td>
+ <td>256 GB</td>
+ <td><img 
+src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQnmngSTyapGLpXLAE
+9uLbaRxxTZdfKs2PjbjyVQvlGzIjPVdHOebRPb7J-CFC1put5c8MRr6OjVdmA5AMi3EbB9QV06p2sC
+cOAlvUAgAs_O6GBM4eOmnBd&usqp=CAE" width="100"></td>
+ <td>63,990</td>
+ </tr>
+ <tr>
+ <td>HP pavallion</td>
+ <td>Intel i7</td>
+ <td>16GB</td>
+ <td>512 GB</td>
+ <td><img 
+src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwIEGmypE07iUwgIj
+v2vuhuyijs3at7lSwYXeV96P94Foq-S3olVmimrsdxkTAQXTtfsBrbKpxTeUbOhEdpFLH3eEQL7Sha
+fmNdh21P7QDgpbsZwHpntBZ&usqp=CAE" width="100"></td>
+ <td>70,000</td>
+ 
+ </tr>
+ <tr>
+ <td>Dell Gaming</td>
+ <td>i7</td>
+ <td>16GB</td>
+<td>512GB</td>
+ <td><img 
+src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSDYE9BXc4XpQTVSu
+ziVdnzUn6aLMC-_n__ywPfNIx6WV8S2Q5_ATnR_485gC-dsjNW5qDDBbZtLUKJaSHzp0Dt2hR8SyBD
+71QcklJf1jaH9KWWT40VUGA&usqp=CAE" width="100"></td>
+ <td>69,990</td>
+ </tr>
+ <tr>
+ <td>Apple Macbook</td>
+ <td>M3 chip</td>
+ <td>8GB</td>
+ <td>256GB</td>
+ <td><img 
+src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTU_j3sPiB6lP3RYBM
+UFZuG9vaulEi8Q_jQHuw7qqLWDyyKd-zMNFxWM98dq4qoJ3bqrNQNFfRT0rg1s-juGEVvPVlqz4OMx
+AfZhrzQNrHUhop1Iyl_d_TCWg&usqp=CAE" width="100"></td>
+ <td>1,20,000</td>
+ </tr>
+ </tbody>
+ </table>
+ <p>
+ <b>Get detailed video on features</b>
+ <p>
+ <iframe width="450" height="215" 
+src="https://www.youtube.com/embed/4JeIbVWfh0g?si=Sg5hiPhBjrey7eVw" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+ </html>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </body>
+</html>
