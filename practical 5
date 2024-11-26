@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+        body{
+  padding: 25px;
+}
+#typography{
+     text-align: center;
+     color:rgb(15, 9, 9);
+     width: 64%;
+     margin:auto;
+     font: size 2.0em;
+     line-height: 1.3em;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(244, 186, 240);
+}
+#logo{
+    float: left;
+    margin: 15px;
+    border-radius: 5px;
+    background-color: rgb(18, 44, 215);
+    padding: 1em;
+}
+.box{font-style: oblique;
+    }
+.product{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-small ;
+}
+.star{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: baseline;
+}
+    </style>
+  </head>
+  <body>
+    <img id="logo"src="https://rshecollections.com/wp-content/uploads/2024/07/logo.jpeg" width="10%" alt="">
+
+      <div id="typography">
+        The scrunchies are made of elastic bands wrapped in satin fabric.
+         The satin gives hair a soft feel and avoids friction while keeping hair tight and secure. 
+         Also, it helps to keep your hair in place without pulling away from hair roots.
+      </div>
+      <a href="#">Home</a>
+      <a href="#">Shop</a>
+      <a href="#">Contact</a>
+      <a href="#">Order details</a>
+      <a href="#">About us</a>
+      <h1 class="box">
+        Get a Free Gift on Orders Over ₹1299 !
+        </h1>
+        <h1 clas="product">     Top selling products
+      </h1>
+    
+      <img src="https://5.imimg.com/data5/SELLER/Default/2021/9/YF/YM/LN/16557313/2-500x500.jpg" width="15%">
+      <img src="https://m.media-amazon.com/images/I/71UzmVzGcVL.jpg" width="15%">
+      <img src="https://www.silvrbear.com/cdn/shop/collections/Formal_Scrunchie.jpg?v=1679854566" width="15%">
+      <img src="https://imgs4.freeup.app/400x400/e52701870ed8ef6a4e0a373b3a89356d.jpg" width="15%">
+
+      <div class="star"> Best Scrunchies Available-Fastest Delivery.
+        NO delivery charges-Limited stock-First 20 customer will get 25%
+        <p>For price detials click on link below</p>
+      </div>
+  </body>
+</html>
