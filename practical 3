@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <center>
+ <meta charset="UTF-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ <title>GCOEN | Home</title>
+ <link rel="stylesheet" href="styles.css" />
+ </head>
+
+ <body>
+ <h1 class="title">Government college of engineering Nagpur </h1>
+ <img
+src="https://media.licdn.com/dms/image/v2/C510BAQE7ypo_hqddKg/company-logo_200
+_200/company-logo_200_200/0/1630577195237/government_college_of_engineering_na
+gpur_logo?e=2147483647&v=beta&t=HIMosgMzDtEb3A1gmtT3ucGA9CFON9OsxngbmzAPxvE"
+width="90" allign="center">
+ <nav>
+ <a href="https://www.gcoen.ac.in/">Home</a>&nbsp;&nbsp;
+ <a href="https://www.gcoen.ac.in/?page=MjIw">College</a>&nbsp;&nbsp;
+ <a href="https://www.gcoen.ac.in/">Courses</a>&nbsp;&nbsp;
+ <a href="https://www.gcoen.ac.in/">Study Materials</a>&nbsp;&nbsp;
+ <a href="https://www.gcoen.ac.in/">Login/signup</a>
+ </nav>
+ <main>
+ <section>
+
+ <h2>College review</h2>
+ <h3><p><i>Government college reputed TIER 2 college in nagpur with
+excellent facuilty and hostel facility.Get the perfect idea of upcoming  future
+at GCOEN</i></p></h3>
+ <img
+src="https://media.getmyuni.com/assets/images/news-images/c17e1c15884eaba4650e
+f1e53ec31b39.webp" width="150" allign="center"><p>
+ <iframe width="250" height="100"
+src="https://www.youtube.com/embed/hbuC64bcoKk?si=V6p5t7wcYDZjUOwT"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ </section>
+ <p>Key Committee</p>
+ <img
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55jaHfCVxIT0MHhR0w
+eBvJWeDqgS261TdfA&s"width="90"align="center"><br>shri VC
+Prastogi<br><span>Principal</span><br>
+ <img
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZil91z96eEVUVjEc8-
+viqPjBivDWYZL28Mw&s"width="90"align="center"><br>Mrs Prerna 
+Ravishankar<br><span>Dean</span>
+ <br><img
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1vqWBthckfQdtjeA6
+c60ZLDZcbtd2EKCFA&s"width="90"align="center"><br>Dr.Wadi
+basmi<br><span>Director,Technical</span>
+ <p>Study Materials</p>
+ <iframe width="200" height="100"
+src="https://www.youtube.com/embed/ZNSA0NrDeb4?si=8b1B_50pRlUoyTeg"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </section>
+ </main>
+ <footer>
+ <a href="https://www.gcoen.ac.in/">FAQ</a>&nbsp;&nbsp;
+ <a href="https://www.gcoen.ac.in/">Contact us</a>&nbsp;&nbsp;
+ <a href="https://www.gcoen.ac.in/">Terms of use</a>&nbsp;&nbsp;
+ <a href="https://www.gcoen.ac.in/">Privacy Policy</a>&nbsp;&nbsp;
+ <a href="https://www.gcoen.ac.in/">&copy;2024|GCOEN</a>&nbsp;&nbsp;
+
+ </footer>
+ </body>
+ </html>
+stle.css
+body{
+ background-color: yellow;
+ text-decoration-color: black;padding: 25px;
+ }
+.title {
+color: RED;
+}
+h1{
+
+ text-align:center ;
+ background-color: pink ;
+}
+nav{
+ background-color:lightyellow ;
+
+}
+footer{
+ text-align:center ;background-color: lightblue;
+
+}
+span{
+ color: Red;
+}
