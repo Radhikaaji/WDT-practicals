@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SASS</title>
+   <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+    <div class="logo-section">
+    <img class="logo" src="C:\Users\ASUS\Downloads\logo.png"alt="logo">
+    <h1>Alosma Makeup and Beauty Products</h1>
+    <div class="search-block">
+            <input type="text" placeholder="Search for rooms or homes...">
+            <img src="C:\Users\ASUS\Downloads\search-icon.png" alt="search-icon">
+        </div>
+    </div>
+    <div class="container">
+        <div class="box box1">
+            <ul class="nav-list">
+                <li>
+                    <a href="#">Best deals</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Messages</a>
+                </li>
+                <li>
+                    <a href="#">Help</a>
+                </li>
+                </ul>
+           
+               <centre>
+                <img src="https://i.pinimg.com/474x/02/93/2e/02932e8b72e5b57799231931c7ab58c7.jpg" 
+width="25%"></img>
+                <img src="https://i.pinimg.com/474x/b0/0c/f7/b00cf77bd76332e5b598cd5c04b7964c.jpg" 
+width="25%"></img>
+   
+            </div>
+            <div class="box box2">
+                <img 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1WGwNHGdnzXXZRpuQ3UhPdElsbhE6Vhl1w&s" 
+width="50%"></img>
+ 🔥                <span> 3.8</span>
+                <span>$1330</span>
+                <h2>Perfect lipstick for your perfect day..</h2>
+            </div>
+            <div class="box box3">
+                <img src="https://i.pinimg.com/474x/70/3b/bb/703bbbffcfad2ee2f7c967467ccf8ed9.jpg" 
+width="50%"></img>
+                <span>$1230 </span>
+ 🔥                <span> 2.8</span>
+                <h5>here are your desirable makeup products of your favourite brand.Giving smudgefree makeup.Click 
+on your wanted items and get veriety...</h5>
+            
+            </div>
+            <div class="box box4">
+                <img 
+src="https://img.freepik.com/premium-photo/shades-pink-red-nail-polish-set-glamour-background-nailpolish-bottles-ma
+ nicure-pedicure-luxury-beauty-cosmetics-makeup-brand_360074-29540.jpg" width="50%"></img>
+                <span>$1230 </span>
+ 🔥                <span> 4.8</span>
+                <h3>Nail paints to get your funky nail art...</h3>
+            </div>
+    </div>
+</body>
+ </html>
+ <style>
+ $smartcolour:red;
+ body{
+    background-color: lavender;
+ }
+ h1{
+    background-color: rgb(241, 49, 187);
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif
+ }
+ .container{
+    display:flex;
+    width:70%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+    height: 60vh;
+ }
+ .box{
+    width:45%;
+    height: 300px;
+    border: 1px solid $smartcolour;
+ }
+ .box2{
+    border: 3px solid $smartcolour;
+ }
+ .box3{
+    background-color:$smartcolour;
+ }
+ h2{
+    font-style: italic;
+    color: $smartcolour;
+    background: yellow;
+ }
+ h5{
+    color: rgb(21, 30, 216);
+    background-color: violet;
+ }
+ h3{
+    background-color:$smartcolour;
+    color: rgb(233, 247, 47);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+ }
+ </style>
