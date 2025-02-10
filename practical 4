@@ -1,0 +1,48 @@
+1.box model
+<html>
+<head>
+<title>box model</title>
+</head>
+<style>
+body{
+padding:25px;
+}
+.box-one{
+padding:20px;
+background:pink;
+border:20 px solid blue;
+}
+.box-two{
+padding:20px;
+background:pink;
+border:20 px solid blue;
+}
+</style>
+<body>
+<div class="box-one">1.SURYA</div>
+<div class="box-two">2.SAKSHI</div>
+</body>
+</html>
+2.media queries 
+<html>
+<head>
+<title>media quesries</title>
+</head>
+<style>
+body{
+padding:25px;
+}
+.title{
+background:pink;
+}
+@media(orientation:landscape){
+body{
+background:yellow;
+}
+}
+</style>
+<body>
+<h1 class="title">GCOEN<h1>
+<h1>A renowned college at KHAPRI.</h1>
+</body>
+</html>
